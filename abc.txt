@@ -2,3 +2,4 @@ Hello Everyone
 how are you
 python
 seaborn
+numpy
