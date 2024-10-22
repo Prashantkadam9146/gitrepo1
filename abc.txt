@@ -6,3 +6,4 @@ numpy
 pandas
 ML
 deep learning
+AI
